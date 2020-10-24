@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nomeFantasia": "Beleza Pet",
+        "endereco": "Avenida Um, 2020 - Recife",
+        "telefone": "81 986473 8364",
+        "atende": [
+            "cães",
+            "gatos"
+        ]
+    },
+    {
+        "id": 2,
+        "nomeFantasia": "Pet Shop 2",
+        "endereco": "Niterói, 1273 - Rio de Janeiro",
+        "telefone": "11 98765-4321",
+        "atende": [
+            "cães",
+            "papagaio"
+        ]
+    },
+    {
+        "id": 4,
+        "nomeFantasia": "Mimo Canino",
+        "endereco": "Rua Amelia, 675 - Recife",
+        "telefone": "81 99988 6655",
+        "atende": [
+            "cães",
+            "gatos"
+        ]
+    },
+    {
+        "id": 5,
+        "nomeFantasia": "Pet Feliz",
+        "endereco": "Rua das Flores, 10 - Recife",
+        "telefone": "81 975362 8365",
+        "atende": [
+            "cães",
+            "papagaios"
+        ]
+    },
+    {
+        "id": 6,
+        "nomeFantasia": "Pet Home",
+        "endereco": "Rua Zero, 30 - Recife",
+        "telefone": "81 98733 8833",
+        "atende": [
+            "cães",
+            "passaros"
+        ]
+    },
+    {
+        "id": 7,
+        "nomeFantasia": "Pet cat",
+        "endereco": "Rua das noivas, 130 - Recife",
+        "telefone": "81 98877 3546",
+        "atende": [
+            "gatos",
+            "passaros"
+        ]
+    },
+    {
+        "id": 8,
+        "nomeFantasia": "Pet Shower",
+        "endereco": "Rua Goveia, 2000 - Recife",
+        "telefone": "81 98467 9974",
+        "atende": [
+            "caes",
+            "gatos"
+        ]
+    }
+]
